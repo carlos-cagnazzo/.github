@@ -1,4 +1,6 @@
-# Internet Topology Research
+# Rutas
+
+**Mapping and helping secure the Internet's inter-domain routing system.**
 
 Reconstructing and studying the Internet's **AS-level topology** from public BGP routing data.
 
