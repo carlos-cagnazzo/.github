@@ -32,6 +32,7 @@ ASNs are zero-padded 8-digit decimals (`00007046`), and adjacency files list one
 
 ## Talks and publications
 
+- **A Short Survey and Brief Tutorial on the State of the Art in Internet Routing Security**. Carlos Martínez Cagnazzo, Cristina Mayr and Claudio Risso. 2025 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON), pp. 1–8. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11476436), [camera-ready PDF](https://github.com/carlos-cagnazzo/.github/blob/main/papers/chilecon-2025-routing-security-survey.pdf).
 - **El grafo de los ASNs de Internet** (*The Internet ASN graph*). Claudio Risso and Carlos Martínez, LACNIC 45 Technical Forum, May 2026. [Slides](https://github.com/carlos-cagnazzo/internet-topology-datasets/blob/main/talks/el-grafo-de-los-asns-de-internet-lacnic45.pdf), video in [Spanish](https://youtu.be/02ROROD3dVM), [English](https://youtu.be/EBa1wEFbnKs) and [Portuguese](https://youtu.be/YXNHc5nR2CY).
 - **Unveiling the Internet AS Topology**, a paper based on the 2025-04 snapshot.
 
